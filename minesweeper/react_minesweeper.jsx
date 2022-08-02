@@ -4,5 +4,4 @@ import Game from '/components/game.jsx';
 
 window.addEventListener('DOMContentLoaded', () => {
     ReactDOM.render(<Game/>, document.querySelector('.root'));
-    // ReactDOM.render(<h1>Food</h1>, document.querySelector('.root'));
 })
